@@ -187,7 +187,7 @@ final class Versions
   'tecnickcom/tcpdf' => '6.3.5@19a535eaa7fb1c1cac499109deeb1a7a201b4549',
   'theseer/tokenizer' => '1.1.3@11336f6f84e16a720dae9d8e6ed5019efa85a0f9',
   'webmozart/assert' => '1.7.0@aed98a490f9a8f78468232db345ab9cf606cf598',
-  'shopware/production' => 'v6.1.5@3add3d5477db4b190db87267f4260d124a459a90',
+  'shopware/production' => 'No version set (parsed as 1.0.0)@',
 );
 
     private function __construct()
